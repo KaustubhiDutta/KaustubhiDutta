@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi 👋 I'm Kaustubhi Dutta
 
-<!--
-**KaustubhiDutta/KaustubhiDutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering (Artificial Intelligence) student  
+💡 Interested in Web Development, AIML - based Tech  
+🚀 Currently building **MediGear – Intelligent Medication Management System**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, JavaScript  
+- **Frontend:** HTML, CSS
+- **Backend:** PHP (learning)  
+- **Tools:** GitHub, VS Code  
+- **AI/ML:** Basics of ML (learning)
+
+---
+
+## 💊 Featured Project
+### MediGear
+An intelligent medication management system that helps users track medicines, receive reminders, and improve adherence.
+
+🔹 Medicine reminders & tracking  
+🔹 Health analytics  
+🔹 Prescription scanner (planned)  
+🔹 Voice-based alerts (planned)
+
+👉 [View Repository](https://github.com/KaustubhiDutta/MediGear)
+
+---
+
+## 🌱 Currently Learning
+- Web development
+- Machine learning integration
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/KaustubhiDutta
+- LinkedIn: www.linkedin.com/in/kaustubhi-dutta-880879348
+
+
