@@ -24,7 +24,7 @@ An intelligent medication management system that helps users track medicines, re
 🔹 Prescription scanner (planned)  
 🔹 Voice-based alerts (planned)
 
-👉 [View Repository](https://github.com/KaustubhiDutta/MediGear)
+👉 [View Repository](https://github.com/KaustubhiDutta/SynergySphere)
 
 ---
 
