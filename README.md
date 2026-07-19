@@ -8,7 +8,9 @@
 Computer Science Engineering (AI) Student • AI & Machine Learning Enthusiast • Java Developer
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=850&color=9D4EDD&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Java+Developer;Full+Stack+Development;Always+Learning+Something+New+🚀"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1200&color=9D4EDD&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kaustubhi+Dutta+%F0%9F%91%8B;Computer+Science+Engineering+(AI)+Student;Building+Intelligent+Solutions+with+AI;Passionate+about+Machine+Learning;Java+Developer+%7C+Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 <br><br>
 
