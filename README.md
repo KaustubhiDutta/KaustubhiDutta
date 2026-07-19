@@ -69,7 +69,8 @@ As an aspiring AI Engineer, I'm continuously strengthening my foundation in **Ad
 ## 🎯 Current Focus
 
 <p align="center">
-
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-9D4EDD?style=for-the-badge&logo=openai&logoColor=white"/>
+  
 <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge&logo=pytorch&logoColor=white"/>
