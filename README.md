@@ -70,13 +70,17 @@ As an aspiring AI Engineer, I'm continuously strengthening my foundation in **Ad
 
 <p align="center">
 
-![](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-![](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
+<img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-![](https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge)
+<img src="https://img.shields.io/badge/Computer%20Vision-5A189A?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-![](https://img.shields.io/badge/System%20Design-green?style=for-the-badge)
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4361EE?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Web%20Development-3A86FF?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System%20Design-7209B7?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
